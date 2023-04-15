@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @trina1999
-- 👀 I’m interested in cybersecurity, ethical hacking, C++, and data structures.
-- 🌱 I’m currently learning more about coding and testing vulnerabilities.
-- 💞️ I’m looking to collaborate on projects related to cybersecurity, C++, or data structures.
-- 📫 How to reach me: trinamahapatra1999@gmail.com
+- 👋 Hi, I'm @trina1999.
+
+- 👀 I'm interested in developing projects related to cybersecurity and data structures using C++.
+
+- 🌱 I'm currently studying ethical hacking to test vulnerabilities, practice phishing attacks, and other cybersecurity practices.
+
+- 💞️ I'm looking to collaborate with other developers who are passionate about cybersecurity and want to create innovative projects.
+
+- 📫 You can reach me by email at trinamahapatra1999@gmail.com.
 
 <!---
 trina1999/trina1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
